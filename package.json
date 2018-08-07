@@ -1,0 +1,24 @@
+{
+  "name": "cordova.plugin.ExpenseOCR",
+  "version": "0.1.0",
+  "description": "A sample for a new cordova plugin",
+  "cordova": {
+    "id": "cordova.plugin.ExpenseOCR",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnhieu89/cordovar-expense-ocr.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "ThanhLN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnhieu89/cordovar-expense-ocr/issues"
+  },
+  "homepage": "https://github.com/dnhieu89/cordovar-expense-ocr#readme"
+}
